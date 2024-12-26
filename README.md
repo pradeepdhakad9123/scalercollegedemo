@@ -1,4 +1,4 @@
 # scalercollege-demo
 This is my first Git Repository.
 <br>
-Author - Pradeep Dhakad
+Author - Piyush (Pradeep Dhakad)
